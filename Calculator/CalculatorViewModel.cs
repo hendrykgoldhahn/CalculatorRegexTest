@@ -42,11 +42,6 @@ namespace Calculator
             }
         }
 
-        public void SetLabelColor()
-        {
-
-        }
-
         public void CalculateResult()
         {
             CalculatorDisplayText = StringManipulation.CalculateString(CalculatorDisplayText);
